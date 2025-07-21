@@ -51,6 +51,7 @@ Women in Blue Nile and White Nile reported the lowest involvement in decisions a
 
 Shelter Gaps in Blue Nile:
 Participants in Blue Nile expressed the greatest concern regarding shelter adequacy, safety, and overcrowding—suggesting the need for prioritized shelter interventions in this location.
+
 ---
 
 ⚠️ **Disclaimer**
