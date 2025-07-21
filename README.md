@@ -37,6 +37,10 @@ Discussions were facilitated by trained staff from different agencies and NGOs, 
 The five-day data collection effort was conducted simultaneously across locations to maximize reach.
 
 For simulation purposes:
+- Here's a more polished and professional version you can include in the Methodology section:
+
+- KoBoToolbox was used for data collection. ChatGPT provided technical support in designing the form and logic using simulated (fictional) data for demonstration purposes.
+
 - **Excel** was used for data cleaning  
 - **Power BI** was used for data preparation, analysis, and dashboard creation  
 
