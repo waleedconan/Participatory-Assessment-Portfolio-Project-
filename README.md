@@ -3,7 +3,7 @@
 
 🎯 **Project Objective**
 
-To amplify the voices of affected communities through a multisector participatory assessment, enabling more targeted and effective humanitarian responses by deepening the understanding of community needs, concerns, and priorities across key sectors.
+To amplify the voices of affected communities through a multisector participatory assessment, enabling more targeted and effective humanitarian responses by deepening the understanding of refugee community needs, concerns, and priorities across key sectors.
 
 ---
 
@@ -26,10 +26,14 @@ This assessment aimed to:
 ### Data Collection Approach
 Data was collected through Focus Group Discussions (FGDs) in three states:
 - Blue Nile  
-- Gedaref  
-- North Darfur  
+- Gedaref
+- Kassala
+- Northern 
+- Red Sea
+- Khartoum
+- White Nile 
 
-A total of 15 focus groups were conducted, engaging 180 participants from diverse population segments:
+A total of 300 focus group discussions (FGDs) were conducted, engaging 3000 participants from diverse population segments:
 - Women (18–59)  
 - Men (18–59)  
 - Adolescent girls (12–17)  
@@ -38,32 +42,22 @@ A total of 15 focus groups were conducted, engaging 180 participants from divers
 - Persons with disabilities (PwDs)
 
 ### Process & Tools Used
-Discussions were facilitated by trained staff, who compiled and reviewed data daily to ensure consistency and quality.
-
-The five-day data collection effort was conducted simultaneously across locations to maximize reach.
+- Discussions were facilitated by trained staff from deferent agencies and NGOs, who compiled and reviewed data daily to ensure consistency and quality.
+- The five-day data collection effort was conducted simultaneously across locations to maximize reach.
 
 For simulation purposes:
 - **KoBoToolbox** was used to design the assessment tool  
-- **Excel** was used for data cleaning and preparation  
-- **Power BI** was used for data analysis and dashboard creation  
-
-> ⚠️ Power BI dashboard is currently under development and will be added soon.
-
+- **Excel** was used for data cleaning   
+- **Power BI** was used for data preparation and analysis and dashboard creation  
 ---
 
 ⚠️ **Disclaimer**
 
-This project was developed independently for educational and portfolio purposes.  
-
-It uses entirely fictional data and does not represent any real individuals, communities, organizations, or operational contexts.  
-
-No internal reports, confidential information, or proprietary formats were used.  
-
-This work is not affiliated with or endorsed by any agency, organization, or implementing partner.  
-
-Humanitarian concepts (e.g., FGDs, participatory assessments, protection indicators) are based on publicly available information and general sector practices.
-
-
+- This project was developed independently for educational and portfolio purposes.  
+- It uses entirely fictional data and does not represent any real individuals, communities, organizations, or operational contexts.  
+- No internal reports, confidential information, or proprietary formats were used.  
+- This work is not affiliated with or endorsed by any agency, organization, or implementing partner.  
+- Humanitarian concepts (e.g., FGDs, participatory assessments, protection indicators) are based on publicly available information and general sector practices.
 ---
 
 ## 🖼️ Sample Dashboards
