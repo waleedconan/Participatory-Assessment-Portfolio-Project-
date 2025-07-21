@@ -1,4 +1,3 @@
-
 # Participatory Assessment – Portfolio Project
 
 🎯 **Project Objective**
