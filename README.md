@@ -41,7 +41,6 @@ For simulation purposes:
 - **Excel** was used for data cleaning  
 - **Power BI** was used for data preparation, analysis, and dashboard creation  
 
-> ⚠️ Power BI dashboard is currently under development and will be added soon.
 
 ---
 
