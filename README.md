@@ -41,7 +41,16 @@ For simulation purposes:
 - **Excel** was used for data cleaning  
 - **Power BI** was used for data preparation, analysis, and dashboard creation  
 
+📈 Key Findings
 
+Child Participation:
+Adolescent boys and girls reported encouraging levels of involvement in community activities and local decision-making processes, reflecting positive trends in child participation.
+
+Women’s Participation:
+Women in Blue Nile and White Nile reported the lowest involvement in decisions affecting their communities, indicating a need to strengthen inclusive community engagement practices in these areas.
+
+Shelter Gaps in Blue Nile:
+Participants in Blue Nile expressed the greatest concern regarding shelter adequacy, safety, and overcrowding—suggesting the need for prioritized shelter interventions in this location.
 ---
 
 ⚠️ **Disclaimer**
