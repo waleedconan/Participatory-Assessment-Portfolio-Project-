@@ -86,7 +86,9 @@ The assessment took place across **seven states**, with the **highest number of 
 
 The chart reveals a significant service gap: **only 16 functioning Child-Friendly Spaces (CFSs)** across assessed locations currently meet the **Child Protection Minimum Standards (CPMS)**.
 
-This shortfall is particularly alarming in **White Nile**, which hosts approximately **150,000 children** but lacks sufficient CP-compliant CFS coverage. Similarly, **Kassala State** shows limited availability of structured, safe spaces for children. These findings point to an urgent need for **investment in quality CFS infrastructure** to promote children's safety, psychosocial well-being, and development.
+This shortfall is particularly alarming in **White Nile**, which hosts approximately **150,000 children** but lacks sufficient CP-compliant CFS coverage.
+
+In **Kassala State**, although 19 protection desks are functioning, they serve over **50,000 children**, indicating a gap in dedicated child protection support structures. These findings point to an urgent need for **investment in both CFS infrastructure and community-based child protection mechanisms** to promote children's safety, psychosocial well-being, and access to services.
 
 ---
 
