@@ -132,12 +132,21 @@ This repository is organized into the following folders:
 
 | Folder | Description |
 |--------|-------------|
-| [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) | Contains the **Power BI dashboard file** and all dashboard **screenshot images** used in the README.  
-Includes:  
+| [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) | Contains the **Power BI dashboard file** and all dashboard **screenshot images** used in the README. |
+| [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) | Contains the `README.md` file and the **simulated dataset** used in the project. |
+
+### 📁 Visuals Folder Includes:
 - 📊 [`PA.pbix`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/PA.pbix)  
-- 🖼️ Dashboard visuals (`Demographic.png`, `Child_Protection.png`, `GBV.png`, `WASH_and_Shelters.png`) |
-| [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) | Includes the `README.md` file and the **simulated dataset** used in the project:  
-- 📄 [`participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx) |
+- 🖼️ Dashboard screenshots:
+  - `Demographic.png`  
+  - `Child_Protection.png`  
+  - `GBV.png`  
+  - `WASH_and_Shelters.png`
+
+### 📁 Docs Folder Includes:
+- 📄 [`README.md`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/README.md)  
+- 📈 [`participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx) – simulated dataset used in this project
+
 
 ---
 
