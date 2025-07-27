@@ -56,7 +56,6 @@ A total of **300 focus group discussions (FGDs)** were conducted across **seven 
 For simulation and portfolio purposes:
 
 - **KoBoToolbox** was used to design the form and simulate data collection.  
-- **ChatGPT** provided support in building the XLSForm with skip logic tailored to age, gender, and disability.  
 - **Excel** was used for cleaning and formatting raw responses.  
 - **Power BI** was used for data preparation, visual analysis, and dashboard creation.
 
@@ -71,4 +70,66 @@ Adolescent boys and girls reported encouraging levels of engagement in community
 Women in **Blue Nile** and **White Nile** states reported the lowest involvement in decisions affecting their communities—highlighting the need for improved inclusion strategies.
 
 **🏠 Shelter Gaps in Blue Nile:**  
-Respondents in **Blue Nile** expressed significant concern over shelter adequacy, privacy, and ove
+Respondents in **Blue Nile** expressed significant concern over shelter adequacy, privacy, and overcrowding—suggesting an urgent need for targeted shelter interventions.
+
+---
+
+## 📌 Key Findings & Recommendations
+
+| **Thematic Area**            | **Key Findings**                                                                                   | **Recommended Actions**                                                                                  |
+|-----------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Demographic Inclusion**    | Children (12–17) were the majority of participants; women and girls had the lowest participation.  | Review outreach strategies to ensure AGD balance; explore barriers to female participation.              |
+| **Geographic Coverage**      | FGDs highest in Gedaref and Red Sea; Kassala and Northern followed.                                | Maintain coverage in active states; expand to underrepresented areas.                                    |
+| **GBV – Safety Perception**  | Blue Nile had the highest safety-at-night perception among women and girls.                        | Analyze contributing factors and replicate best practices in other states.                                |
+| **GBV – Participation & Services** | White Nile and Blue Nile reported low female participation and limited GBV services.               | Investigate causes and scale up GBV services; strengthen community engagement for women.                  |
+| **WASH – PwD Accessibility** | White Nile lacks accessible latrines for persons with disabilities.                                | Improve inclusive WASH infrastructure and prioritize disability-friendly designs.                         |
+| **Shelter Conditions**       | Blue Nile reported major shelter gaps with the rainy season approaching.                           | Deploy emergency shelter support and upgrade shelter solutions in advance of seasonal risks.              |
+
+---
+
+## 🖼️ Sample Dashboards
+
+### 🔹 Demographic Overview  
+![Demographic Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/Demographic.png)
+
+The chart shows that the **majority of FGD participants were children aged 12–17**, with **90 participants**, followed by **older persons (60+)** and **adults aged 25–59** (78 participants). Youth participation was the lowest among all age groups.
+
+The assessment took place across **seven states**, with the **highest number of FGDs in Gedaref and Red Sea (50 each)**, followed by **Kassala and Northern (45 each)**. 
+
+**PwDs** were the **second most represented group**, while **girls and women had the lowest participation**, indicating a need for deeper analysis into participation barriers.
+
+---
+
+### 🔹 Child Protection Indicators  
+![Child Protection Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/Child_Protection.png)
+
+---
+
+### 🔹 Gender-Based Violence (GBV)  
+![GBV Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/GBV.png)
+
+**Blue Nile** had the **highest reported perception of safety at night** among women and girls—a positive outlier that should be further studied to identify best practices.
+
+Meanwhile, **White Nile and Blue Nile** recorded **low levels of women’s participation in community decision-making** and **limited availability of GBV services**. These gaps require targeted investigation and programming.
+
+---
+
+### 🔹 WASH and Shelter  
+![WASH and Shelter Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/WASH_and_Shelters.png)
+
+In **White Nile**, latrines suitable for persons with disabilities were reported as **severely limited**, despite the state hosting Sudan’s largest refugee population—highlighting a critical need for inclusive WASH services.
+
+In **Blue Nile**, community members reported **widespread shelter inadequacy**. With the rainy season approaching, **urgent interventions** are needed to mitigate health and protection risks.
+
+---
+
+## ⚠️ Disclaimer
+
+This project was developed independently for **educational and portfolio purposes**.
+
+- It uses entirely fictional data and does **not** represent any real individuals, communities, organizations, or operational contexts.  
+- No internal reports, confidential data, or proprietary formats were used.  
+- This work is not affiliated with or endorsed by any humanitarian agency or implementing partner.  
+- Concepts such as FGDs, participatory assessments, and protection indicators are based on publicly available materials and sector standards.
+
+---
