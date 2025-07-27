@@ -7,7 +7,6 @@
 - [📊 Methodology](#-methodology)  
   - [📍 Data Collection Approach](#-data-collection-approach)  
   - [🧰 Process & Tools Used](#-process--tools-used)  
-- [📈 Key Findings](#-key-findings)  
 - [📌 Key Findings & Recommendations](#-key-findings--recommendations)  
 - [🖼️ Sample Dashboards](#-sample-dashboards)  
 - [⚠️ Disclaimer](#️-disclaimer)  
