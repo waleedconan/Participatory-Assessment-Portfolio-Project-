@@ -7,7 +7,7 @@
 - [📊 Methodology](#-methodology)  
   - [📍 Data Collection Approach](#-data-collection-approach)  
   - [🧰 Process & Tools Used](#-process--tools-used)  
-- [🖼️ Dashboard Interpretation](#-Dashboard-Interpretation)  
+- [📊 Dashboard Interpretation](#-Dashboard-Interpretation)  
   - [🔹 Demographic Overview](#-demographic-overview)  
   - [🔹 Child Protection Indicators](#-child-protection-indicators)  
   - [🔹 Gender-Based Violence (GBV)](#-gender-based-violence-gbv)  
@@ -68,7 +68,7 @@ For simulation and portfolio purposes:
 
 ---
 
-## 🖼️ Dashboard Interpretation
+## 📊 Dashboard Interpretation
 
 ### 🔹 Demographic Overview  
 ![Demographic Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/visuals/Demographic.png)
