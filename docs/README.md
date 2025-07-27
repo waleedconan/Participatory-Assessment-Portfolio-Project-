@@ -166,7 +166,7 @@ If you're exploring this project for portfolio or learning purposes, follow thes
 - Open the [`README.md`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/README.md) file (located in the [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) folder) to explore key findings, visuals, and analysis.
 - Visit the [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) folder to access:
   - 📷 Dashboard screenshots  
-  - 📊 Power BI report file (`PA.pbix`)
+  - 📊 Power BI report file 
 
 ---
 
