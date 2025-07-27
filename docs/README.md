@@ -7,9 +7,16 @@
 - [📊 Methodology](#-methodology)  
   - [📍 Data Collection Approach](#-data-collection-approach)  
   - [🧰 Process & Tools Used](#-process--tools-used)  
-- [📌 Key Findings & Recommendations](#-key-findings--recommendations)  
 - [🖼️ Sample Dashboards](#-sample-dashboards)  
+  - [🔹 Demographic Overview](#-demographic-overview)  
+  - [🔹 Child Protection Indicators](#-child-protection-indicators)  
+  - [🔹 Gender-Based Violence (GBV)](#-gender-based-violence-gbv)  
+  - [🔹 WASH and Shelter](#-wash-and-shelter)  
+- [📌 Key Findings & Recommendations](#-key-findings--recommendations)  
+- [📂 Folder Overview](#-folder-overview)  
+- [🚀 How to Use](#-how-to-use)  
 - [⚠️ Disclaimer](#️-disclaimer)  
+- [📁 Repository Structure](#-repository-structure)
 
 ---
 
@@ -55,28 +62,16 @@ A total of **300 focus group discussions (FGDs)** were conducted across **seven 
 For simulation and portfolio purposes:
 
 - **KoBoToolbox** was used to design the form and simulate data collection.  
+- **ChatGPT** provided support in building the XLSForm with skip logic tailored to age, gender, and disability.  
 - **Excel** was used for cleaning and formatting raw responses.  
 - **Power BI** was used for data preparation, visual analysis, and dashboard creation.
-
----
-
-## 📌 Key Findings & Recommendations
-
-| **Thematic Area**            | **Key Findings**                                                                                   | **Recommended Actions**                                                                                  |
-|-----------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Demographic Inclusion**    | Children (12–17) were the majority of participants; women and girls had the lowest participation.  | Review outreach strategies to ensure AGD balance; explore barriers to female participation.              |
-| **Geographic Coverage**      | FGDs highest in Gedaref and Red Sea; Kassala and Northern followed.                                | Maintain coverage in active states; expand to underrepresented areas.                                    |
-| **GBV – Safety Perception**  | Blue Nile had the highest safety-at-night perception among women and girls.                        | Analyze contributing factors and replicate best practices in other states.                                |
-| **GBV – Participation & Services** | White Nile and Blue Nile reported low female participation and limited GBV services.               | Investigate causes and scale up GBV services; strengthen community engagement for women.                  |
-| **WASH – PwD Accessibility** | White Nile lacks accessible latrines for persons with disabilities.                                | Improve inclusive WASH infrastructure and prioritize disability-friendly designs.                         |
-| **Shelter Conditions**       | Blue Nile reported major shelter gaps with the rainy season approaching.                           | Deploy emergency shelter support and upgrade shelter solutions in advance of seasonal risks.              |
 
 ---
 
 ## 🖼️ Sample Dashboards
 
 ### 🔹 Demographic Overview  
-![Demographic Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/Demographic.png)
+![Demographic Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/visuals/Demographic.png)
 
 The chart shows that the **majority of FGD participants were children aged 12–17**, with **90 participants**, followed by **older persons (60+)** and **adults aged 25–59** (78 participants). Youth participation was the lowest among all age groups.
 
@@ -87,12 +82,16 @@ The assessment took place across **seven states**, with the **highest number of 
 ---
 
 ### 🔹 Child Protection Indicators  
-![Child Protection Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/Child_Protection.png)
+![Child Protection Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/visuals/Child_Protection.png)
+
+The chart reveals a significant service gap: **only 16 functioning Child-Friendly Spaces (CFSs)** across assessed locations currently meet the **Child Protection Minimum Standards (CPMS)**.
+
+This shortfall is particularly alarming in **White Nile**, which hosts approximately **150,000 children** but lacks sufficient CP-compliant CFS coverage. Similarly, **Kassala State** shows limited availability of structured, safe spaces for children. These findings point to an urgent need for **investment in quality CFS infrastructure** to promote children's safety, psychosocial well-being, and development.
 
 ---
 
 ### 🔹 Gender-Based Violence (GBV)  
-![GBV Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/GBV.png)
+![GBV Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/visuals/GBV.png)
 
 **Blue Nile** had the **highest reported perception of safety at night** among women and girls—a positive outlier that should be further studied to identify best practices.
 
@@ -101,11 +100,67 @@ Meanwhile, **White Nile and Blue Nile** recorded **low levels of women’s parti
 ---
 
 ### 🔹 WASH and Shelter  
-![WASH and Shelter Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/WASH_and_Shelters.png)
+![WASH and Shelter Dashboard](https://raw.githubusercontent.com/waleedconan/Participatory-Assessment-Portfolio-Project-/main/visuals/WASH_and_Shelters.png)
 
 In **White Nile**, latrines suitable for persons with disabilities were reported as **severely limited**, despite the state hosting Sudan’s largest refugee population—highlighting a critical need for inclusive WASH services.
 
 In **Blue Nile**, community members reported **widespread shelter inadequacy**. With the rainy season approaching, **urgent interventions** are needed to mitigate health and protection risks.
+
+---
+
+## 📌 Key Findings & Recommendations
+
+| **Thematic Area**            | **Key Findings**                                                                                   | **Recommended Actions**                                                                                  |
+|-----------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Demographic Inclusion**    | Children (12–17) were the majority of participants; women and girls had the lowest participation.  | Review outreach strategies to ensure AGD balance; explore barriers to female participation.              |
+| **Geographic Coverage**      | FGDs highest in Gedaref and Red Sea; Kassala and Northern followed.                                | Maintain coverage in active states; expand to underrepresented areas.                                    |
+| **Child Protection Services**| Only 16 functioning CFSs meet CP standards, despite large child populations in states like White Nile and Kassala. | Scale up CP-compliant CFSs, prioritizing high-need states. Improve quality and monitoring of existing facilities. |
+| **GBV – Safety Perception**  | Blue Nile had the highest safety-at-night perception among women and girls.                        | Analyze contributing factors and replicate best practices in other states.                                |
+| **GBV – Participation & Services** | White Nile and Blue Nile reported low female participation and limited GBV services.               | Investigate causes and scale up GBV services; strengthen community engagement for women.                  |
+| **WASH – PwD Accessibility** | White Nile lacks accessible latrines for persons with disabilities.                                | Improve inclusive WASH infrastructure and prioritize disability-friendly designs.                         |
+| **Shelter Conditions**       | Blue Nile reported major shelter gaps with the rainy season approaching.                           | Deploy emergency shelter support and upgrade shelter solutions in advance of seasonal risks.              |
+
+---
+
+## 📂 Folder Overview
+
+This repository is organized into the following folders:
+
+| Folder | Description |
+|--------|-------------|
+| [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) | Contains the **Power BI dashboard file** and all dashboard **screenshot images** used in the README.  
+Includes:  
+- 📊 [`PA.pbix`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/PA.pbix)  
+- 🖼️ Dashboard visuals (`Demographic.png`, `Child_Protection.png`, `GBV.png`, `WASH_and_Shelters.png`) |
+| [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) | Includes the `README.md` file and the **simulated dataset** used in the project:  
+- 📄 [`participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx) |
+
+---
+
+## 🚀 How to Use
+
+If you're exploring this project or reviewing it for portfolio or learning purposes, here’s how you can get started:
+
+1. **Review the Findings and Dashboard**  
+   - Scroll through this README to view high-level insights and dashboard visuals.  
+   - Navigate to [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) for full-resolution images and the Power BI `.pbix` file.
+
+2. **Explore the Dataset**  
+   - Download the dataset file from [`/docs/participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx).  
+   - The dataset contains **300 simulated responses** from focus group discussions across 7 states, disaggregated by age, gender, and disability.
+
+3. **Open and Explore the Power BI File**  
+   - Open [`PA.pbix`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/PA.pbix) in Power BI Desktop to examine:
+     - Data modeling  
+     - Power Query steps  
+     - DAX measures  
+     - Visual layout and filtering options
+
+4. **Adapt for Your Use**  
+   - This project can be adapted for:
+     - Training in AAP or Protection data workflows  
+     - Demonstrating survey data analysis  
+     - Simulating reporting dashboards for humanitarian use cases
 
 ---
 
@@ -119,3 +174,6 @@ This project was developed independently for **educational and portfolio purpose
 - Concepts such as FGDs, participatory assessments, and protection indicators are based on publicly available materials and sector standards.
 
 ---
+
+## 📁 Repository Structure
+
