@@ -159,26 +159,31 @@ This repository is organized into the following folders:
 
 If you're exploring this project or reviewing it for portfolio or learning purposes, here’s how you can get started:
 
-1. **Review the Findings and Dashboard**  
-   - Scroll through this README to view high-level insights and dashboard visuals.  
-   - Navigate to [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) for full-resolution images and the Power BI `.pbix` file.
+---
 
-2. **Explore the Dataset**  
-   - Download the dataset file from [`/docs/participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx).  
-   - The dataset contains **300 simulated responses** from focus group discussions across 7 states, disaggregated by age, gender, and disability.
+### 1. Review the Findings and Dashboard
 
-3. **Open and Explore the Power BI File**  
-   - Open [`PA.pbix`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/PA.pbix) in Power BI Desktop to examine:
-     - Data modeling  
-     - Power Query steps  
-     - DAX measures  
-     - Visual layout and filtering options
+- Scroll through this `README.md` file (in the [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) folder) to view high-level insights and dashboard visuals.
+- Navigate to the [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) folder for:
+  - High-resolution dashboard screenshots
+  - The Power BI `.pbix` file
 
-4. **Adapt for Your Use**  
-   - This project can be adapted for:
-     - Training in AAP or Protection data workflows  
-     - Demonstrating survey data analysis  
-     - Simulating reporting dashboards for humanitarian use cases
+---
+
+### 2. Explore the Dataset
+
+- Download the dataset from the [`/docs/participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx)
+- The dataset contains **300 simulated responses** from focus group discussions across 7 states, disaggregated by age, gender, and disability.
+
+---
+
+### 3. Open and Explore the Power BI File
+
+- Open [`PA.pbix`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/PA.pbix) in Power BI Desktop to examine:
+  - Data modeling
+  - Power Query steps
+  - Dashboard visuals and layout
+
 
 ---
 
