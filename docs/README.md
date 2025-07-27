@@ -157,33 +157,33 @@ This repository is organized into the following folders:
 
 ## 🚀 How to Use
 
-If you're exploring this project or reviewing it for portfolio or learning purposes, here’s how you can get started:
+If you're exploring this project for portfolio or learning purposes, follow these steps:
 
 ---
 
-### 1. Review the Findings and Dashboard
+### 1. 📖 Review Insights and Dashboards
 
-- Scroll through this `README.md` file (in the [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) folder) to view high-level insights and dashboard visuals.
-- Navigate to the [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) folder for:
-  - High-resolution dashboard screenshots
-  - The Power BI `.pbix` file
-
----
-
-### 2. Explore the Dataset
-
-- Download the dataset from the [`/docs/participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx)
-- The dataset contains **300 simulated responses** from focus group discussions across 7 states, disaggregated by age, gender, and disability.
+- Open the [`README.md`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/README.md) file (located in the [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) folder) to explore key findings, visuals, and analysis.
+- Visit the [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) folder to access:
+  - 📷 Dashboard screenshots  
+  - 📊 Power BI report file (`PA.pbix`)
 
 ---
 
-### 3. Open and Explore the Power BI File
+### 2. 📊 Explore the Dataset
 
-- Open [`PA.pbix`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/PA.pbix) in Power BI Desktop to examine:
-  - Data modeling
-  - Power Query steps
-  - Dashboard visuals and layout
+- Download the dataset from the [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) folder:  
+  [`participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx)
+- This file contains **300 simulated responses** from focus group discussions across 7 states, disaggregated by age, gender, and disability.
 
+---
+
+### 3. 🧩 Open the Power BI File
+
+- Open [`PA.pbix`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/PA.pbix) in Power BI Desktop to explore:
+  - Data model relationships  
+  - Power Query transformation steps  
+  - Visual dashboards with filters and DAX measures
 
 ---
 
