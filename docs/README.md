@@ -112,8 +112,6 @@ In **Blue Nile**, community members reported **widespread shelter inadequacy**. 
 
 ## 📌 Key Findings & Recommendations
 
-## 📌 Key Findings & Recommendations
-
 | **Thematic Area**            | **Key Findings**                                                                                   | **Recommended Actions**                                                                                  |
 |-----------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Demographic Inclusion**    | Children (12–17) were the majority of participants; women and girls had the lowest participation.  | Review outreach strategies to ensure AGD balance; explore barriers to female participation.              |
