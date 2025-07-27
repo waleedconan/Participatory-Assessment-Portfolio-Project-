@@ -200,3 +200,17 @@ This project was developed independently for **educational and portfolio purpose
 
 ## 📁 Repository Structure
 
+```
+Participatory-Assessment-Portfolio-Project-/
+├── docs/
+│   ├── README.md
+│   └── participatory_assessment_300_responses.xlsx
+│
+├── visuals/
+│   ├── PA.pbix
+│   ├── Demographic.png
+│   ├── Child_Protection.png
+│   ├── GBV.png
+│   └── WASH_and_Shelters.png
+```
+
