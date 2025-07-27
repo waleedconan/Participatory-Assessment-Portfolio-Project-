@@ -61,19 +61,6 @@ For simulation and portfolio purposes:
 
 ---
 
-## 📈 Key Findings
-
-**🧒 Child Participation:**  
-Adolescent boys and girls reported encouraging levels of engagement in community activities and decision-making, reflecting positive trends in youth participation.
-
-**👩 Women’s Participation:**  
-Women in **Blue Nile** and **White Nile** states reported the lowest involvement in decisions affecting their communities—highlighting the need for improved inclusion strategies.
-
-**🏠 Shelter Gaps in Blue Nile:**  
-Respondents in **Blue Nile** expressed significant concern over shelter adequacy, privacy, and overcrowding—suggesting an urgent need for targeted shelter interventions.
-
----
-
 ## 📌 Key Findings & Recommendations
 
 | **Thematic Area**            | **Key Findings**                                                                                   | **Recommended Actions**                                                                                  |
