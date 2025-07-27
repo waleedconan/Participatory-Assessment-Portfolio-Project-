@@ -112,11 +112,14 @@ In **Blue Nile**, community members reported **widespread shelter inadequacy**. 
 
 ## 📌 Key Findings & Recommendations
 
+## 📌 Key Findings & Recommendations
+
 | **Thematic Area**            | **Key Findings**                                                                                   | **Recommended Actions**                                                                                  |
 |-----------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Demographic Inclusion**    | Children (12–17) were the majority of participants; women and girls had the lowest participation.  | Review outreach strategies to ensure AGD balance; explore barriers to female participation.              |
 | **Geographic Coverage**      | FGDs highest in Gedaref and Red Sea; Kassala and Northern followed.                                | Maintain coverage in active states; expand to underrepresented areas.                                    |
-| **Child Protection Services**| Only 16 functioning CFSs meet CP standards, despite large child populations in states like White Nile and Kassala. | Scale up CP-compliant CFSs, prioritizing high-need states. Improve quality and monitoring of existing facilities. |
+| **Child Protection – CFS Gap (White Nile)** | Only 16 functioning CFSs meet CP standards, despite White Nile hosting ~150,000 children. | Scale up CP-compliant CFSs in high-need states. Improve quality and monitoring of existing facilities. |
+| **Child Protection – Protection Desk Gap (Kassala)** | Kassala has only 19 protection desks serving 50,000+ children, with limited CP service coverage. | Expand child protection presence through protection desks, mobile outreach, and caseworker deployment. |
 | **GBV – Safety Perception**  | Blue Nile had the highest safety-at-night perception among women and girls.                        | Analyze contributing factors and replicate best practices in other states.                                |
 | **GBV – Participation & Services** | White Nile and Blue Nile reported low female participation and limited GBV services.               | Investigate causes and scale up GBV services; strengthen community engagement for women.                  |
 | **WASH – PwD Accessibility** | White Nile lacks accessible latrines for persons with disabilities.                                | Improve inclusive WASH infrastructure and prioritize disability-friendly designs.                         |
