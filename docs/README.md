@@ -7,7 +7,7 @@
 - [📊 Methodology](#-methodology)  
   - [📍 Data Collection Approach](#-data-collection-approach)  
   - [🧰 Process & Tools Used](#-process--tools-used)  
-- [🖼️ Sample Dashboards](#-Dashboard-Interpretation)  
+- [🖼️ Dashboard Interpretation](#-Dashboard-Interpretation)  
   - [🔹 Demographic Overview](#-demographic-overview)  
   - [🔹 Child Protection Indicators](#-child-protection-indicators)  
   - [🔹 Gender-Based Violence (GBV)](#-gender-based-violence-gbv)  
