@@ -135,18 +135,23 @@ This repository is organized into the following folders:
 | [`/visuals`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/visuals) | Contains the **Power BI dashboard file** and all dashboard **screenshot images** used in the README. |
 | [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) | Contains the `README.md` file and the **simulated dataset** used in the project. |
 
+---
+
 ### 📁 Visuals Folder Includes:
-- 📊 [`PA.pbix`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/PA.pbix)  
+
+- 📊 [`PA.pbix`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/PA.pbix)
 - 🖼️ Dashboard screenshots:
-  - `Demographic.png`  
-  - `Child_Protection.png`  
-  - `GBV.png`  
-  - `WASH_and_Shelters.png`
+  - [`Demographic.png`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/Demographic.png)
+  - [`Child_Protection.png`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/Child_Protection.png)
+  - [`GBV.png`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/GBV.png)
+  - [`WASH_and_Shelters.png`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/visuals/WASH_and_Shelters.png)
+
+---
 
 ### 📁 Docs Folder Includes:
-- 📄 [`README.md`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/README.md)  
-- 📈 [`participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx) – simulated dataset used in this project
 
+- 📄 [`README.md`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/README.md)
+- 📈 [`participatory_assessment_300_responses.xlsx`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/participatory_assessment_300_responses.xlsx) – simulated dataset used in this project
 
 ---
 
