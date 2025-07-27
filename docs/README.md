@@ -157,8 +157,6 @@ This repository is organized into the following folders:
 
 If you're exploring this project for portfolio or learning purposes, follow these steps:
 
----
-
 ### 1. 📖 Review Insights and Dashboards
 
 - Open the [`README.md`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/blob/main/docs/README.md) file (located in the [`/docs`](https://github.com/waleedconan/Participatory-Assessment-Portfolio-Project-/tree/main/docs) folder) to explore key findings, visuals, and analysis.
